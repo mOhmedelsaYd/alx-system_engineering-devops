@@ -1,1 +1,1 @@
-my name is mohamed elsayed ahmed
+script that prints the absolute path name of the current working directory
